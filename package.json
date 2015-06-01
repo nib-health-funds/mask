@@ -1,0 +1,9 @@
+{
+  "name": "@nib/mask",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-health-funds/mask.git"
+  }
+}
